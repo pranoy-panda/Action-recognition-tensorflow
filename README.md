@@ -1,7 +1,8 @@
 # Action-recognition-tensorflow
 Designing a 3D CNN architecture for action recognition in video
 
-citation of the kth dataset used:
+## citation of the kth dataset used:
+```
 @inproceedings{schuldt2004recognizing,
   title={Recognizing human actions: a local SVM approach},
   author={Schuldt, Christian and Laptev, Ivan and Caputo, Barbara},
@@ -11,3 +12,6 @@ citation of the kth dataset used:
   year={2004},
   organization={IEEE}
 }
+```
+
+
