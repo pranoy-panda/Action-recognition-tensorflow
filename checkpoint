@@ -1,0 +1,2 @@
+model_checkpoint_path: "act_recog_3D_CNN_model.ckpt"
+all_model_checkpoint_paths: "act_recog_3D_CNN_model.ckpt"
